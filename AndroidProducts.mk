@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/cubot/cubot_x18/
+LOCAL_PATH := device/cubot/x18/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_cubot_x18.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_x18.mk

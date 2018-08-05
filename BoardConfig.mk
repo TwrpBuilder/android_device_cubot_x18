@@ -14,10 +14,10 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/cubot/cubot_x18
+LOCAL_PATH := device/cubot/x18
 
 TARGET_BOARD_PLATFORM := mt6750
-TARGET_BOOTLOADER_BOARD_NAME := cubot_x18
+TARGET_BOOTLOADER_BOARD_NAME := x18
 
 # Recovery
 TARGET_USERIMAGES_USE_EXT4 := true

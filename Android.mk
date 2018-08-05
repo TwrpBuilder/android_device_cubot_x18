@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter cubot_x18,$(TARGET_DEVICE)),)
+ifneq ($(filter x18,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/cubot/cubot_x18/
+LOCAL_PATH := device/cubot/x18/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
